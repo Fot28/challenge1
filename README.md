@@ -18,7 +18,9 @@ For more information, please visit [https://fot28.github.io/challenge1/](https:/
 
 ## Credits
 
-N/A
+[https://www.w3schools.com/html/html5_semantic_elements.asp](HTML Semantic Elements)
+[https://www.w3schools.com/tags/att_img_alt.asp](HTML img alt Attribute)
+[https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](Professional README Guide)
 
 ## License
 
