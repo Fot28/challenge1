@@ -29,6 +29,7 @@ body {
 /*/* The following block sets the styles for the header/h1/span */
 .header h1 .seo {
     color: #d9dcd6;
+    font-style: normal;
 }
 
 /*/* The following block sets the styles for the header/nav */
