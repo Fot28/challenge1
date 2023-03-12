@@ -14,7 +14,7 @@ In this Challenge1 Project, you can see that all links work and also you can ope
 
 ![Challenge1](assets/images/screenshot.png)
     
-For more information, please visit [(https://fot28.github.io/challenge1/)]((https://fot28.github.io/challenge1/)).
+For more information, please visit [https://fot28.github.io/challenge1/](https://fot28.github.io/challenge1/).
 
 ## Credits
 
