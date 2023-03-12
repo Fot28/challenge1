@@ -12,7 +12,9 @@ N/A
 
 In this Challenge1 Project, you can see that all links work and also you can open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows) and check that HTML follows the semantic structure of the HTML elements, tags, and image alt attributes. 
 
-    [![Challenge1](assets/images/screenshot.png)](https://fot28.github.io/challenge1/)
+![Challenge1](assets/images/screenshot.png)
+    
+For more information, please visit [(https://fot28.github.io/challenge1/)]((https://fot28.github.io/challenge1/)).
 
 ## Credits
 
