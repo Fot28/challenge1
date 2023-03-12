@@ -17,7 +17,7 @@ In this Challenge1 Project, you can see that all links work and also you can ope
 For more information, please visit [https://fot28.github.io/challenge1/](https://fot28.github.io/challenge1/).
 
 ## Credits
-
+[https://static.fullstack-bootcamp.com/uk-16/activities/01-html-git-github-module/04-code-refactor-lesson/challenge.zip](Starter code files)
 [https://www.w3schools.com/html/html5_semantic_elements.asp](HTML Semantic Elements)
 [https://www.w3schools.com/tags/att_img_alt.asp](HTML img alt Attribute)
 [https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide](Professional README Guide)
