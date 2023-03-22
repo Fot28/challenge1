@@ -18,13 +18,13 @@ For more information, please visit [https://fot28.github.io/challenge1/](https:/
 
 ## Credits
 
-[Starter code files](https://static.fullstack-bootcamp.com/uk-16/activities/01-html-git-github-module/04-code-refactor-lesson/challenge.zip)
+[Icons](https://icons8.com/icons)
 
-[HTML Semantic Elements](https://static.fullstack-bootcamp.com/uk-16/activities/01-html-git-github-module/04-code-refactor-lesson/challenge.zip)
+[Images](https://www.freepik.com/)
 
-[HTML img alt Attribute](https://www.w3schools.com/tags/att_img_alt.asp)
+[When I stuck I've been searching at:](https://stackoverflow.com/)
 
-[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Resume template](https://sampleresumetemplate.net/)
 
 ## License
 
